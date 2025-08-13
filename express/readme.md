@@ -1,4 +1,4 @@
-# Express Starter Template - in progress
+# Express Starter Template - project in progress
 
 A minimal TypeScript + Express setup.
 
